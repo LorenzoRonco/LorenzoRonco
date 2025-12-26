@@ -9,7 +9,7 @@
 ## 🚀 Featured Projects
 
 ### **GeoControl API**
-**Role:** Backend Software Engineer
+**Role:** Backend Software Engineer<br>
 A RESTful API for a distributed environmental monitoring system (e.g., hydrogeological analysis).
 * **Overview:** Developed the backend logic to manage hierarchical sensor networks and ingest data streams.
 * **Key Features:**
@@ -21,7 +21,7 @@ A RESTful API for a distributed environmental monitoring system (e.g., hydrogeol
 
 
 ### **Yikes!**
-**Role:** Full Stack Developer
+**Role:** Full Stack Developer<br>
 A web application designed to play the "Stuff Happens" card game digitally.
 * **Overview:** Designed and implemented a Single Page Application (SPA) allowing users to play in real-time.
 * **Key Features:** User authentication with Passport.js, secure session management, RESTful HTTP APIs, and dynamic gameplay logic.
@@ -29,7 +29,7 @@ A web application designed to play the "Stuff Happens" card game digitally.
 
 
 ### **Pac-Man (LandTiger Edition)**
-**Role:** Embedded Software Developer
+**Role:** Embedded Software Developer<br>
 An implementation of the classic Pac-Man game for the LandTiger board (LPC1768).
 * **Overview:** Developed a real-time game running on an ARM Cortex-M3 microcontroller using the Keil µVision environment.
 * **Key Features:** Joystick-based navigation logic, collision detection, interrupt-based pause system, random power-up generation and LCD graphics rendering.
@@ -37,7 +37,7 @@ An implementation of the classic Pac-Man game for the LandTiger board (LPC1768).
 
 
 ### **AbitaTO**
-**Role:** Backend & Frontend Developer
+**Role:** Backend & Frontend Developer<br>
 A real estate listing website developed for the "Introduction to Web Applications" course.
 * **Overview:** A platform for users to register, manage property listings, and book apartment visits.
 * **Key Features:** CRUD operations for ads, user management, and booking systems.
