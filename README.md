@@ -2,7 +2,7 @@
 
 🎓 **MSc in Computer Engineering - Software** @ Politecnico di Torino <br><br>
 💻 **BSc in Computer Engineering** @ Politecnico di Torino <br>
-🌐 **Focus:** Software Engineering, Full Stack development & Distributed Systems <br>
+🌐 **Focus:** Software Engineering, Full Stack development & Artificial Intelligence <br>
 
 ---
 
@@ -13,9 +13,9 @@
 A civic engagement platform for reporting and collaboratively managing urban issues in the Municipality of Turin. Developed as a group project for the Software Engineering II course, developed using Agile methodologies.
 * **Overview:** Connecting citizens with the local public administration, allowing them to locate urban anomalies on an interactive map and track their resolution through a complete lifecycle.
 * **Key Features:**
-    * Implemented a full-stack architecture entirely type-safe using **TypeScript** across both frontend and backend to ensure data consistency.
-    * Managed a complex multi-role workflow with distinct features for Citizens, Administrators, Public Relations, and various Technical Offices.
-    * Integrated a **Telegram Bot** using the Telegraf framework, allowing users to submit real-time reports with photo attachments and Turin boundary geographic validation.
+    * Implemented a full-stack architecture entirely type-safe using **TypeScript** to ensure data consistency.
+    * Managed a complex multi-role workflow with distinct features for each role.
+    * Integrated a **Telegram Bot** using the Telegraf framework, allowing users to submit real-time reports.
     * Integrated an interactive map leveraging **Leaflet** for cost-effective, open-source geolocalisation of reported issues.
     * Optimized storage architecture by decoupling media assets using **MinIO** object storage, keeping the main relational database lightweight.
     * Ensured code reliability through a multi-tier testing setup: **Jest** for backend integration, **Vitest** for frontend components, and **Playwright** for End-to-End (E2E) UI workflows.
@@ -24,7 +24,7 @@ A civic engagement platform for reporting and collaboratively managing urban iss
 
 ### Microservices File Management System
 **Role:** Full Stack Developer<br>
-A scalable, microservices-based corporate document portal for secure file storage, sharing, and processing. Developed as a group project for a university final assignment[cite: 2].
+A scalable, microservices-based corporate document portal for secure file storage, sharing, and processing. Developed as a group project for a university final assignment.
 * Overview: A distributed document ecosystem that enforces robust security and access control while leveraging integrated artificial intelligence for advanced file processing and search.
 * Key Features:
     * Microservices architecture with independent services, dedicated databases, and a unified API Gateway.
@@ -56,7 +56,7 @@ An AI-assisted custom jewelry design platform optimized for tablet devices, deve
     * Integrated a real-time, rotatable 3D scene using Three.js within the React Three Fiber ecosystem to allow multi-angle inspection of custom jewelry pieces.
     * Implemented a pure Conversational UI paradigm within the design workspace, establishing natural language prompt feedback as the primary interaction model.
     * Conducted multiple rigorous cycles of user evaluation, integrating comprehensive field insights from heuristic reviews and structured usability testing (SUS and SEQ metrics).
-* **Tech**: React, Vite, TypeScript, Three.js, React Three Fiber, React Bootstrap, CSS Modules, Blender, Figma. <br><br>
+* **Tech**: React, Vite, TypeScript, Three.js, Figma. <br><br>
 
 
 ### **Yikes!**
