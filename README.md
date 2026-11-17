@@ -1,8 +1,8 @@
 # Hi, I'm Lorenzo Ronco 👋
+🎓 **PhD student in Computer and Control Engineering** @ Politecnico di Torino <br>
 
-🎓 **MSc in Computer Engineering - Software** @ Politecnico di Torino <br><br>
-💻 **BSc in Computer Engineering** @ Politecnico di Torino <br>
-🌐 **Focus:** Software Engineering, Full Stack development & Artificial Intelligence <br>
+🎓 **MSc in Computer Engineering - Software** @ Politecnico di Torino <br>
+🌐 **Focus:** Sign Language Translation, Deep Learning and Software Engineering <br>
 
 ---
 
